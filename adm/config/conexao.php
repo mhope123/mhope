@@ -1,9 +1,9 @@
 <?php
 session_start();
-define('HOST', '127.0.0.1');
-define('DB', 'mhope_bd');
-define('USUARIO', 'root');
-define('SENHA', '');
+define('HOST', 'ec2-3-216-167-65.compute-1.amazonaws.com');
+define('DB', 'db9hcdeb4icket');
+define('USUARIO', 'kweuppelflmvip');
+define('SENHA', 'd36b4d5a4eb681723f4ea8bbbd4530aadeeb9aa2c52a3d725dcfde8ad256b740');
 
 global $conexao;
 

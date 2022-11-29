@@ -1,5 +1,5 @@
 <?php
-    include("includes/layout.html");
+    include("includes/layout.php");
     include_once("adm/config/conexao.php");
 ?>
 
